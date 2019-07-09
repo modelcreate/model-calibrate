@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/modelcreate/model-calibrate/master/app.png" alt="Title Image"/>
+  <img src="https://raw.githubusercontent.com/modelcreate/model-calibrate/master/img/app.png" alt="Title Image"/>
 </p>
 
 ## Model Calibrate

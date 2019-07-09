@@ -9,11 +9,17 @@ Extract a model with the provided Ruby scripts and then drag into the app
 
 ## Extracting Models
 
-Scripts and a guide to convert your model into GeoJSON are included in the Ruby folder, [click here to find out more](https://github.com/modelcreate/model-create/tree/master/ruby/)
+Scripts and a guide to convert your model into GeoJSON are included in the Ruby folder, [click here to find out more](https://github.com/modelcreate/model-calibrate/tree/master/ruby/)
 
 ## Future Enhancements
 Model View is under active development; this version is an early preview.
 
 * Support for calibrating set point of PRVs
+* Move fixed head within app at logged locations
+* Highlight mains that have been selected for calibration and also those that have calibration actions applied to them
+* Reallocate demands
+* View results at any node or link
+* View model data in table format
+* Export calibration actions back into InfoWorks
 
 Please feel free to submit feature requests or bugs to GitHub.

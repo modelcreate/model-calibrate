@@ -5,23 +5,10 @@
 </p>
 
 ## Model Calibrate
-Display and calibrate models created in InfoWorks WS Pro directly in the browser. No data leaves your computer; all data rendered and processed locally.
+Extract subsections of your InfoWorks WS Pro models and run them in your browser. As you make calibration changes such as modifying roughness or restriction valves the application runs an epanet model and compares the simulated results to those observered in the field.
 
 Extract a model with the provided Ruby scripts and then drag into the app
 
-## Extracting Models
+## Learn More
+View the presentation I gave at CwMAG [Calibrating a Model in Your Browser](https://cwmagblog.files.wordpress.com/2019/10/calibrating-a-model-in-your-browser-v4.pdf)
 
-Scripts and a guide to convert your model into GeoJSON are included in the Ruby folder, [click here to find out more](https://github.com/modelcreate/model-calibrate/tree/master/ruby/)
-
-## Future Enhancements
-Model View is under active development; this version is an early preview.
-
-* Support for calibrating set point of PRVs
-* Move fixed head within app at logged locations
-* Highlight mains that have been selected for calibration and also those that have calibration actions applied to them
-* Reallocate demands
-* View results at any node or link
-* View model data in table format
-* Export calibration actions back into InfoWorks
-
-Please feel free to submit feature requests or bugs to GitHub.

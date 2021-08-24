@@ -1,0 +1,25 @@
+
+.App-header {
+  min-height: 100vh;
+
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.tooltip {
+  position: absolute;
+  margin: 8px;
+  padding: 4px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  max-width: 300px;
+  font-size: 10px;
+  z-index: 9;
+  pointer-events: none;
+}
+
+.mapboxgl-ctrl-attrib {
+  padding: 0 5px;
+  background-color: rgba(0, 0, 0, 0.15)!important;
+  margin: 0;
+}
